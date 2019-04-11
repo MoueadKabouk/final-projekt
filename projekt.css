@@ -1,0 +1,181 @@
+body{
+     background: rgb(255, 255, 255);
+     margin: 0;
+     }
+
+
+*{
+     box-sizing: border-box;
+     }
+
+
+#nav {
+     background-color: rgba(0, 0, 0, 0.884);
+     height: 70px;
+     text-align: center;
+     border: 2px solid black;
+     color: white;
+     position: sticky;
+     width: 100%;
+     top:0;
+     }
+
+
+nav {
+     display: block;
+     font-size: 25px;
+     }
+
+
+ul {
+     list-style-type: none;
+     }
+
+
+li {
+     float: left;
+     padding:15px;
+     margin-top: -19px;
+     }
+
+
+li a {
+     text-decoration: none;
+     color: white;
+     letter-spacing: 6px;
+     }
+
+
+li a:hover {
+     background-color: rgb(29,59,139);
+     padding: 10px;
+     }
+
+
+
+#projekt {
+     background-color: rgb(29,59,139);
+     padding: 15px;
+     border-radius: 0px;
+     }
+
+
+#M{
+     float: right;
+     width: 60px;
+     height: 60px;
+     margin-top: -24px;
+     margin-right: 9px;
+     background: rgb(201, 200, 200);
+     border: 1px solid black;
+     border-radius:135px;
+     }
+
+
+.pr{
+     color: rgb(29,59,139);
+     }
+
+
+h1{
+     text-align: center;
+     font-size: 60px;
+     }
+
+
+.blue{
+     color: rgb(29,59,139);
+     font-size: 60px;
+     }
+
+
+.firstdiv{
+     width: 100%;
+     margin-bottom: 100px;
+     margin-top: 100px;
+     }
+
+
+.gallery1{
+     width: 70%;
+     height: 65%;
+     margin: auto;
+     padding: 5px;
+     }
+
+
+.gallery2{
+     width: 70%;
+     height: 65%;
+     margin: auto;
+     margin-top: 16%;
+     padding: 10px;
+     }
+
+
+.gallery3{
+     width: 70%;
+     height: 65%;
+     margin: auto;
+     margin-top: 16%;
+     }
+
+
+.gallery4{
+     width: 70%;
+     height: 65%;
+     margin: auto;
+     margin-top: 16%;
+     padding: 10px;
+     }
+
+
+.gallery5{
+     width: 70%;
+     height: 65%;
+     margin: auto;
+     margin-top: 16%;
+     padding: 10px;
+     }
+
+
+#img1{
+     width: 100%;
+     }
+
+
+#img2{
+     width: 100%;
+     }
+
+
+#img3{
+     width: 100%;
+     }
+
+
+#img4{
+     width: 100%;
+     }
+
+
+#img5{
+     width: 100%;
+     }
+
+
+.desc{
+     height: 58px;
+     color: rgb(102, 100, 100);
+     font-size: 22px;
+     letter-spacing: 8px;
+     padding: 25px;
+     margin-top: 25px;
+     text-align: center;
+     border-bottom: 1px solid black;
+     }
+     
+
+abbr{
+     text-decoration: none;
+     }
